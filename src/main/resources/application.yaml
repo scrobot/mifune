@@ -1,0 +1,9 @@
+spring:
+  couchbase:
+    connection-string: ""
+    username: ""
+    password: ""
+  data:
+    couchbase:
+      bucket-name: ""
+
